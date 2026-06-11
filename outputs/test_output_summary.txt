@@ -1,0 +1,39 @@
+BookSwap SQL Database Validation Summary
+Student name: Amirah
+Total tables: 23
+SQLite database size: 200704 bytes
+Foreign key violations: 0
+
+Row counts per table:
+- addresses: 10
+- authors: 10
+- book_authors: 10
+- book_conditions: 10
+- book_genres: 16
+- book_listings: 10
+- books: 10
+- borrow_requests: 10
+- delivery_methods: 10
+- fines: 10
+- genres: 10
+- languages: 10
+- listing_delivery_options: 12
+- loan_status_history: 10
+- loans: 10
+- notifications: 10
+- publishers: 10
+- reports: 10
+- reviews: 10
+- time_slots: 10
+- user_role_assignments: 14
+- user_roles: 10
+- users: 10
+
+All tables have at least 10 rows: True
+
+Sample available books output:
+- The Metamorphosis | Owner: Lina Weber | City: Berlin | Status: available
+- The Odyssey | Owner: Amirah Khan | City: Berlin | Status: available
+- Sociology: A Brief Introduction | Owner: Hanna Wolf | City: Bremen | Status: available
+- Pride and Prejudice | Owner: Mia Schneider | City: Cologne | Status: available
+- Automate the Boring Stuff with Python | Owner: Nora Becker | City: Leipzig | Status: available
