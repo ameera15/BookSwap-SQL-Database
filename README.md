@@ -1,6 +1,7 @@
 # BookSwap SQL Database Project
 
-**Student name:** Amira 
+**Student name:** Amira Sahraoui
+
 **Course:** DLBDSPBDM01_D – Data-Mart-Erstellung in SQL  
 **Project topic:** Relational database for a local book exchange / book lending app  
 **DBMS used:** SQLite 3  
